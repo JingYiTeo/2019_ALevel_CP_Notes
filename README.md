@@ -4,14 +4,14 @@
 
 ## Table of Contents
 
-..* Sorting and Searching
+* Sorting and Searching
 
-..* Input and Output
+* Input and Output
 
-..* Common Functions
+* Common Functions
 
-..* Binary Search Tree
+* Binary Search Tree
 
-..* Object Oriented Programming
+* Object Oriented Programming
 
 Done by `Teo Jing Yi` 
