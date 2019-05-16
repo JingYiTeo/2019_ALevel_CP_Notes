@@ -1,3 +1,5 @@
+#binary search needs the data/array/list to be sorted before it can search.
+
 def binary_search(elements, target, low, high):
 
     #define the middle item index
