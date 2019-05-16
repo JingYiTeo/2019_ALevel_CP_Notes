@@ -1,3 +1,5 @@
+#elements have to be sorted before it can be used on Binary Search
+
 def Binary_Search(elements, target):
 
     #define the starting index
