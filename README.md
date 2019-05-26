@@ -12,7 +12,7 @@
 
 * Number Base Conversions
 
-*Classes: Object Oriented Programming (OOP)
+*Classes: Object Oriented Programming (OOP)*
 
 * Array Data Structures
 
