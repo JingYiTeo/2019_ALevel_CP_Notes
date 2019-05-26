@@ -10,8 +10,12 @@
 
 * Common Functions
 
-* Binary Search Tree
+* Number Base Conversions
 
-* Object Oriented Programming
+*Classes: Object Oriented Programming (OOP)
+
+* Array Data Structures
+
+* Node Data Structures
 
 Done by `Teo Jing Yi` 
